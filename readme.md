@@ -6,7 +6,7 @@
 + [Query.cs](https://github.com/baohaojun/beagrep/blob/b1d56ef14d1d663d43b6af198600caa21623d2f2/beagrepd/Lucene.Net/Search/Query.cs)
 + [LuceneIndex.cs](https://github.com/jimmejardine/qiqqa-open-source/blob/6a558a694380af1e7c77f16a4a14a4b3a0fffad8/Utilities/Language/TextIndexing/LuceneIndex.cs)
 + [LuceneQueryBuilder.cs](https://github.com/ravendb/ravendb/blob/faf3702069a08d21381574a47fcf6e08f3660f31/src/Raven.Server/Documents/Queries/LuceneQueryBuilder.cs)
-
++ [Lucene.NetBasicExample](https://github.com/CodeMazeBlog/CodeMazeGuides/tree/main/dotnet-searching/Lucene.NetBasicExample)
 
 A fork of this project: https://azuredirectory.codeplex.com/
 Updated to work with Lucene 3.0.3, and version 2.1.0.3 of the Azure Storage client.
